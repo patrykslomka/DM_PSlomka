@@ -7,3 +7,4 @@ scipy
 mlxtend
 imblearn
 tensforflow
+xgboost
